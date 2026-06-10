@@ -23,8 +23,7 @@ def main():
      print("=" * 60)
 
      choice = input("Enter your item\n")
-    
-    
+
      if choice == "1":
         print("-" * 60)
         print("1: MSI B850M-A Pro - $169.99\n")
