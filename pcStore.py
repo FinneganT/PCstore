@@ -120,6 +120,7 @@ def main():
             print("-" * 60)
             print("1: Air Cooling - $150\n")
             print("2: Liquid Cooling - $200\n")
+            print("3: Custom Loop Cooling - $350\n")
             print("-" * 60)
 
             sub_choice = input("choose one: ")
